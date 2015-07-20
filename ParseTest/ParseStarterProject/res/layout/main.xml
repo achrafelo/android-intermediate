@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TOMAR FOTO"
+        android:id="@+id/button3"
+        android:layout_gravity="center_horizontal"
+        android:textSize="40sp"
+        android:onClick="doTakePitcture" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ESCOGER GALERIA"
+        android:id="@+id/button4"
+        android:layout_gravity="center_horizontal"
+        android:textSize="30sp"
+        android:onClick="doSelectPicture" />
+
+</LinearLayout>
