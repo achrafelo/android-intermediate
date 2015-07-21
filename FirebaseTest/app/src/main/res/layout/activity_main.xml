@@ -1,0 +1,78 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Quico&apos;s BALL"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:padding="20dp"
+        android:background="#CDDC39" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/container"
+        android:layout_below="@+id/textView"
+        android:background="#F9FBE7" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/xx"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp">
+
+        <Button
+            android:layout_width="@dimen/size_btn"
+            android:layout_height="@dimen/size_btn"
+            android:id="@+id/btn_up"
+            android:text="+"
+            android:layout_centerHorizontal="true"
+            android:textSize="14sp"
+            android:onClick="up" />
+
+        <Button
+            android:layout_width="@dimen/size_btn"
+            android:layout_height="@dimen/size_btn"
+            android:text=">"
+            android:id="@+id/btn_right"
+            android:layout_marginTop="@dimen/size_btn"
+            android:layout_alignParentRight="false"
+            android:layout_toRightOf="@+id/btn_left"
+            android:layout_marginLeft="@dimen/size_btn"
+            android:textSize="14sp"
+            android:onClick="right" />
+
+        <Button
+            android:layout_width="@dimen/size_btn"
+            android:layout_height="@dimen/size_btn"
+            android:text="&lt;"
+            android:id="@+id/btn_left"
+            android:layout_alignParentLeft="false"
+            android:layout_marginTop="@dimen/size_btn"
+            android:textSize="14sp"
+            android:onClick="left" />
+
+        <Button
+            android:layout_width="@dimen/size_btn"
+            android:layout_height="@dimen/size_btn"
+            android:text="v"
+            android:id="@+id/btn_down"
+            android:layout_below="@+id/btn_up"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/size_btn"
+            android:textSize="14sp"
+            android:onClick="down" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
