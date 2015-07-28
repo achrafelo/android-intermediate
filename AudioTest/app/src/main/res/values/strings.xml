@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AudioTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="gallery">Abrir Audio</string>
+    <string name="take_picture">Grabar Audio</string>
+    <string name="lbl_recording">Grabando...</string>
+</resources>
