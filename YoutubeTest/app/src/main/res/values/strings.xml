@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YoutubeTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="youtube_api_key">AIzaSyCoLdDv5JcsImj3lKBb3deyiYpAoy_qxv0</string>
+</resources>
