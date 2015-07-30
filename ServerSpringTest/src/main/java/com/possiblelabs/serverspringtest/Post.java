@@ -1,4 +1,4 @@
-package com.possiblelabs.retrofittest;
+package com.possiblelabs.serverspringtest;
 
 /**
  * Created by possiblelabs on 7/30/15.
