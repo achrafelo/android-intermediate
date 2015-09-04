@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ciudadesNames">
+        <item>Cochabamba</item>
+        <item>La Paz</item>
+        <item>Santa Cruz</item>
+    </string-array>
+    <string-array name="ciudadesValues">
+        <item>cocha</item>
+        <item>lapaz</item>
+        <item>santa</item>
+    </string-array>
+</resources>

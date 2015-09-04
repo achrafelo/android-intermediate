@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Categoria 1">
+        <EditTextPreference
+            android:key="username"
+            android:summary="Ingrese su nombre"
+            android:title="Nombre de usuario"></EditTextPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="update"
+            android:summary="Configurar actualizaciones"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Actualizar automáticamente" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Categoria 2">
+        <ListPreference
+            android:defaultValue="cocha"
+            android:entries="@array/ciudadesNames"
+            android:entryValues="@array/ciudadesValues"
+            android:key="city"
+            android:summary="Seleccione su ciudad de origen"
+            android:title="Ciudad" />
+
+        <PreferenceScreen
+            android:title="Hola Google"
+            android:summary="Esto abre google">
+            <intent android:action="android.intent.action.VIEW"
+                android:data="http://www.google.com" />
+
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>
