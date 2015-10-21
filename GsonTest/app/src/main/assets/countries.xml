@@ -1,0 +1,252 @@
+<countries>
+    <country name="Afghanistan" value="0">Afghanistan</country>
+    <country name="Åland Islands" value="1">Åland Islands</country>
+    <country name="Albania" value="2">Albania</country>
+    <country name="Algeria" value="3">Algeria</country>
+    <country name="American Samoa" value="4">American Samoa</country>
+    <country name="Andorra" value="5">Andorra</country>
+    <country name="Angola" value="6">Angola</country>
+    <country name="Anguilla" value="7">Anguilla</country>
+    <country name="Antarctica" value="8">Antarctica</country>
+    <country name="Antigua and Barbuda" value="9">Antigua and Barbuda</country>
+    <country name="Argentina" value="10">Argentina</country>
+    <country name="Armenia" value="11">Armenia</country>
+    <country name="Aruba" value="12">Aruba</country>
+    <country name="Australia" value="13">Australia</country>
+    <country name="Austria" value="14">Austria</country>
+    <country name="Azerbaijan" value="15">Azerbaijan</country>
+    <country name="Bahamas" value="16">Bahamas</country>
+    <country name="Bahrain" value="17">Bahrain</country>
+    <country name="Bangladesh" value="18">Bangladesh</country>
+    <country name="Barbados" value="19">Barbados</country>
+    <country name="Belarus" value="20">Belarus</country>
+    <country name="Belgium" value="21">Belgium</country>
+    <country name="Belize" value="22">Belize</country>
+    <country name="Benin" value="23">Benin</country>
+    <country name="Bermuda" value="24">Bermuda</country>
+    <country name="Bhutan" value="25">Bhutan</country>
+    <country name="Bolivia" value="26">Bolivia</country>
+    <country name="Bonaire, Sint Eustatius and Saba" value="27">Bonaire, Sint Eustatius and Saba</country>
+    <country name="Bosnia and Herzegovina" value="28">Bosnia and Herzegovina</country>
+    <country name="Botswana" value="29">Botswana</country>
+    <country name="Bouvet Island" value="30">Bouvet Island</country>
+    <country name="Brazil" value="31">Brazil</country>
+    <country name="British Indian Ocean Territory" value="32">British Indian Ocean Territory</country>
+    <country name="British Virgin Islands" value="33">British Virgin Islands</country>
+    <country name="Brunei" value="34">Brunei</country>
+    <country name="Bulgaria" value="35">Bulgaria</country>
+    <country name="Burkina Faso" value="36">Burkina Faso</country>
+    <country name="Burundi" value="37">Burundi</country>
+    <country name="Cambodia" value="38">Cambodia</country>
+    <country name="Cameroon" value="39">Cameroon</country>
+    <country name="Canada" value="40">Canada</country>
+    <country name="Cape Verde" value="41">Cape Verde</country>
+    <country name="Cayman Islands" value="42">Cayman Islands</country>
+    <country name="Central African Republic" value="43">Central African Republic</country>
+    <country name="Chad" value="44">Chad</country>
+    <country name="Chile" value="45">Chile</country>
+    <country name="China" value="46">China</country>
+    <country name="Christmas Island" value="47">Christmas Island</country>
+    <country name="Cocos Islands" value="48">Cocos Islands</country>
+    <country name="Colombia" value="49">Colombia</country>
+    <country name="Comoros" value="50">Comoros</country>
+    <country name="Congo" value="51">Congo</country>
+    <country name="Cook Islands" value="52">Cook Islands</country>
+    <country name="Costa Rica" value="53">Costa Rica</country>
+    <country name="Côte d'Ivoire" value="54">Côte d'Ivoire</country>
+    <country name="Croatia" value="55">Croatia</country>
+    <country name="Cuba" value="56">Cuba</country>
+    <country name="Curaçao" value="57">Curaçao</country>
+    <country name="Cyprus" value="58">Cyprus</country>
+    <country name="Czech Republic" value="59">Czech Republic</country>
+    <country name="Denmark" value="60">Denmark</country>
+    <country name="Djibouti" value="61">Djibouti</country>
+    <country name="Dominica" value="62">Dominica</country>
+    <country name="Dominican Republic" value="63">Dominican Republic</country>
+    <country name="Ecuador" value="64">Ecuador</country>
+    <country name="Egypt" value="65">Egypt</country>
+    <country name="El Salvador" value="66">El Salvador</country>
+    <country name="Equatorial Guinea" value="67">Equatorial Guinea</country>
+    <country name="Eritrea" value="68">Eritrea</country>
+    <country name="Estonia" value="69">Estonia</country>
+    <country name="Ethiopia" value="70">Ethiopia</country>
+    <country name="Falkland Islands" value="71">Falkland Islands</country>
+    <country name="Faroe Islands" value="72">Faroe Islands</country>
+    <country name="Fiji" value="73">Fiji</country>
+    <country name="Finland" value="74">Finland</country>
+    <country name="France" value="75">France</country>
+    <country name="French Guiana" value="76">French Guiana</country>
+    <country name="French Polynesia" value="77">French Polynesia</country>
+    <country name="French Southern Territories" value="78">French Southern Territories</country>
+    <country name="Gabon" value="79">Gabon</country>
+    <country name="Gambia" value="80">Gambia</country>
+    <country name="Georgia" value="81">Georgia</country>
+    <country name="Germany" value="82">Germany</country>
+    <country name="Ghana" value="83">Ghana</country>
+    <country name="Gibraltar" value="84">Gibraltar</country>
+    <country name="Greece" value="85">Greece</country>
+    <country name="Greenland" value="86">Greenland</country>
+    <country name="Grenada" value="87">Grenada</country>
+    <country name="Guadeloupe" value="88">Guadeloupe</country>
+    <country name="Guam" value="89">Guam</country>
+    <country name="Guatemala" value="90">Guatemala</country>
+    <country name="Guernsey" value="91">Guernsey</country>
+    <country name="Guinea" value="92">Guinea</country>
+    <country name="Guinea-Bissau" value="93">Guinea-Bissau</country>
+    <country name="Guyana" value="94">Guyana</country>
+    <country name="Haiti" value="95">Haiti</country>
+    <country name="Heard Island And McDonald Islands" value="96">Heard Island And McDonald Islands</country>
+    <country name="Honduras" value="97">Honduras</country>
+    <country name="Hong Kong" value="98">Hong Kong</country>
+    <country name="Hungary" value="99">Hungary</country>
+    <country name="Iceland" value="100">Iceland</country>
+    <country name="India" value="101">India</country>
+    <country name="Indonesia" value="102">Indonesia</country>
+    <country name="Iran" value="103">Iran</country>
+    <country name="Iraq" value="104">Iraq</country>
+    <country name="Ireland" value="105">Ireland</country>
+    <country name="Isle Of Man" value="106">Isle Of Man</country>
+    <country name="Israel" value="107">Israel</country>
+    <country name="Italy" value="108">Italy</country>
+    <country name="Jamaica" value="109">Jamaica</country>
+    <country name="Japan" value="110">Japan</country>
+    <country name="Jersey" value="111">Jersey</country>
+    <country name="Jordan" value="112">Jordan</country>
+    <country name="Kazakhstan" value="113">Kazakhstan</country>
+    <country name="Kenya" value="114">Kenya</country>
+    <country name="Kiribati" value="115">Kiribati</country>
+    <country name="Kuwait" value="116">Kuwait</country>
+    <country name="Kyrgyzstan" value="117">Kyrgyzstan</country>
+    <country name="Laos" value="118">Laos</country>
+    <country name="Latvia" value="119">Latvia</country>
+    <country name="Lebanon" value="120">Lebanon</country>
+    <country name="Lesotho" value="121">Lesotho</country>
+    <country name="Liberia" value="122">Liberia</country>
+    <country name="Libya" value="123">Libya</country>
+    <country name="Liechtenstein" value="124">Liechtenstein</country>
+    <country name="Lithuania" value="125">Lithuania</country>
+    <country name="Luxembourg" value="126">Luxembourg</country>
+    <country name="Macao" value="127">Macao</country>
+    <country name="Macedonia" value="128">Macedonia</country>
+    <country name="Madagascar" value="129">Madagascar</country>
+    <country name="Malawi" value="130">Malawi</country>
+    <country name="Malaysia" value="131">Malaysia</country>
+    <country name="Maldives" value="132">Maldives</country>
+    <country name="Mali" value="133">Mali</country>
+    <country name="Malta" value="134">Malta</country>
+    <country name="Marshall Islands" value="135">Marshall Islands</country>
+    <country name="Martinique" value="136">Martinique</country>
+    <country name="Mauritania" value="137">Mauritania</country>
+    <country name="Mauritius" value="138">Mauritius</country>
+    <country name="Mayotte" value="139">Mayotte</country>
+    <country name="Mexico" value="140">Mexico</country>
+    <country name="Micronesia" value="141">Micronesia</country>
+    <country name="Moldova" value="142">Moldova</country>
+    <country name="Monaco" value="143">Monaco</country>
+    <country name="Mongolia" value="144">Mongolia</country>
+    <country name="Montenegro" value="145">Montenegro</country>
+    <country name="Montserrat" value="146">Montserrat</country>
+    <country name="Morocco" value="147">Morocco</country>
+    <country name="Mozambique" value="148">Mozambique</country>
+    <country name="Myanmar" value="149">Myanmar</country>
+    <country name="Namibia" value="150">Namibia</country>
+    <country name="Nauru" value="151">Nauru</country>
+    <country name="Nepal" value="152">Nepal</country>
+    <country name="Netherlands" value="153">Netherlands</country>
+    <country name="Netherlands Antilles" value="154">Netherlands Antilles</country>
+    <country name="New Caledonia" value="155">New Caledonia</country>
+    <country name="New Zealand" value="156">New Zealand</country>
+    <country name="Nicaragua" value="157">Nicaragua</country>
+    <country name="Niger" value="158">Niger</country>
+    <country name="Nigeria" value="159">Nigeria</country>
+    <country name="Niue" value="160">Niue</country>
+    <country name="Norfolk Island" value="161">Norfolk Island</country>
+    <country name="Northern Mariana Islands" value="162">Northern Mariana Islands</country>
+    <country name="North Korea" value="163">North Korea</country>
+    <country name="Norway" value="164">Norway</country>
+    <country name="Oman" value="165">Oman</country>
+    <country name="Pakistan" value="166">Pakistan</country>
+    <country name="Palau" value="167">Palau</country>
+    <country name="Palestine" value="168">Palestine</country>
+    <country name="Panama" value="169">Panama</country>
+    <country name="Papua New Guinea" value="170">Papua New Guinea</country>
+    <country name="Paraguay" value="171">Paraguay</country>
+    <country name="Peru" value="172">Peru</country>
+    <country name="Philippines" value="173">Philippines</country>
+    <country name="Pitcairn" value="174">Pitcairn</country>
+    <country name="Poland" value="175">Poland</country>
+    <country name="Portugal" value="176">Portugal</country>
+    <country name="Puerto Rico" value="177">Puerto Rico</country>
+    <country name="Qatar" value="178">Qatar</country>
+    <country name="Reunion" value="179">Reunion</country>
+    <country name="Romania" value="180">Romania</country>
+    <country name="Russia" value="181">Russia</country>
+    <country name="Rwanda" value="182">Rwanda</country>
+    <country name="Saint Barthélemy" value="183">Saint Barthélemy</country>
+    <country name="Saint Helena" value="184">Saint Helena</country>
+    <country name="Saint Kitts And Nevis" value="185">Saint Kitts And Nevis</country>
+    <country name="Saint Lucia" value="186">Saint Lucia</country>
+    <country name="Saint Martin" value="187">Saint Martin</country>
+    <country name="Saint Pierre And Miquelon" value="188">Saint Pierre And Miquelon</country>
+    <country name="Saint Vincent And The Grenadines" value="189">Saint Vincent And The Grenadines</country>
+    <country name="Samoa" value="190">Samoa</country>
+    <country name="San Marino" value="191">San Marino</country>
+    <country name="Sao Tome And Principe" value="192">Sao Tome And Principe</country>
+    <country name="Saudi Arabia" value="193">Saudi Arabia</country>
+    <country name="Senegal" value="194">Senegal</country>
+    <country name="Serbia" value="195">Serbia</country>
+    <country name="Seychelles" value="196">Seychelles</country>
+    <country name="Sierra Leone" value="197">Sierra Leone</country>
+    <country name="Singapore" value="198">Singapore</country>
+    <country name="Sint Maarten (Dutch part)" value="199">Sint Maarten (Dutch part)</country>
+    <country name="Slovakia" value="200">Slovakia</country>
+    <country name="Slovenia" value="201">Slovenia</country>
+    <country name="Solomon Islands" value="202">Solomon Islands</country>
+    <country name="Somalia" value="203">Somalia</country>
+    <country name="South Africa" value="204">South Africa</country>
+    <country name="South Georgia And The South Sandwich Islands" value="205">South Georgia And The South Sandwich Islands</country>
+    <country name="South Korea" value="206">South Korea</country>
+    <country name="South Sudan" value="207">South Sudan</country>
+    <country name="Spain" value="208">Spain</country>
+    <country name="Sri Lanka" value="209">Sri Lanka</country>
+    <country name="Sudan" value="210">Sudan</country>
+    <country name="Suriname" value="211">Suriname</country>
+    <country name="Svalbard And Jan Mayen" value="212">Svalbard And Jan Mayen</country>
+    <country name="Swaziland" value="213">Swaziland</country>
+    <country name="Sweden" value="214">Sweden</country>
+    <country name="Switzerland" value="215">Switzerland</country>
+    <country name="Syria" value="216">Syria</country>
+    <country name="Taiwan" value="217">Taiwan</country>
+    <country name="Tajikistan" value="218">Tajikistan</country>
+    <country name="Tanzania" value="219">Tanzania</country>
+    <country name="Thailand" value="220">Thailand</country>
+    <country name="The Democratic Republic Of Congo" value="221">The Democratic Republic Of Congo</country>
+    <country name="Timor-Leste" value="222">Timor-Leste</country>
+    <country name="Togo" value="223">Togo</country>
+    <country name="Tokelau" value="224">Tokelau</country>
+    <country name="Tonga" value="225">Tonga</country>
+    <country name="Trinidad and Tobago" value="226">Trinidad and Tobago</country>
+    <country name="Tunisia" value="227">Tunisia</country>
+    <country name="Turkey" value="228">Turkey</country>
+    <country name="Turkmenistan" value="229">Turkmenistan</country>
+    <country name="Turks And Caicos Islands" value="230">Turks And Caicos Islands</country>
+    <country name="Tuvalu" value="231">Tuvalu</country>
+    <country name="U.S. Virgin Islands" value="232">U.S. Virgin Islands</country>
+    <country name="Uganda" value="233">Uganda</country>
+    <country name="Ukraine" value="234">Ukraine</country>
+    <country name="United Arab Emirates" value="235">United Arab Emirates</country>
+    <country name="United Kingdom" value="236">United Kingdom</country>
+    <country name="United States" value="237">United States</country>
+    <country name="United States Minor Outlying Islands" value="238">United States Minor Outlying Islands</country>
+    <country name="Uruguay" value="239">Uruguay</country>
+    <country name="Uzbekistan" value="240">Uzbekistan</country>
+    <country name="Vanuatu" value="241">Vanuatu</country>
+    <country name="Vatican" value="242">Vatican</country>
+    <country name="Venezuela" value="243">Venezuela</country>
+    <country name="Vietnam" value="244">Vietnam</country>
+    <country name="Wallis And Futuna" value="245">Wallis And Futuna</country>
+    <country name="Western Sahara" value="246">Western Sahara</country>
+    <country name="Yemen" value="247">Yemen</country>
+    <country name="Zambia" value="248">Zambia</country>
+    <country name="Zimbabwe" value="249">Zimbabwe</country>
+</countries>
