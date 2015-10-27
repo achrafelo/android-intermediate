@@ -1,4 +1,115 @@
-# android-intermediate
+# Android Intermediate Course
+
+* Intermediate Examples
+
+<table>
+	<tr>
+		<th>AccelerometerTest</th>
+		<th>GoogleMapsTest</th>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+	</tr>
+	<tr>
+		<th>ActiveAndroidTest</th>
+		<th>AlarmTest</th>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+	</tr>	
+	<tr>
+		<th>ActiveAndroidTest</th>
+		<th>AlarmTest</th>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+	</tr>	
+	<tr>
+		<th>AudioTest</th>
+		<th>BatteryTest</th>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+	</tr>	
+	<tr>
+		<th>CameraTest</th>
+		<th>CustomSlideMenuTest</th>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+	</tr>	
+	<tr>
+		<th>FirebaseTest</th>
+		<th>GsonTest</th>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+	</tr>	
+	<tr>
+		<th>KSoapTest</th>
+		<th>ParseTest</th>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+	</tr>	
+	<tr>
+		<th>PicassoTest</th>
+		<th>PreferenceScreenTest</th>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+	</tr>	
+	<tr>
+		<th>RetrofitTest</th>
+		<th>SpeechTest</th>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+	</tr>
+	<tr>
+		<th>VibrateTest</th>
+		<th>VideoTest</th>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+	</tr>	
+	<tr>
+		<th>VolleyTest</th>
+		<th>YoutubeTest</th>
+	</tr>
+</table>
+
+
+* Intermediate APPs
+
+
+<table>
+	<tr>
+		<th>App Radio</th>
+		<th>Features</th>		
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-basic/master/screens/accelerometertest.png"/></td>
+		<td style="width: 240px"> 
+			<ul>
+				<li>Material Design GUI</li>
+				<li>Using Linear Layouts </li>
+				<li>Programming Logic</li>
+			</ul>
+		</td>
+	</tr>	
+</table>
+
 
 # License
 Copyright (C) 2015 - PossibleLabs
