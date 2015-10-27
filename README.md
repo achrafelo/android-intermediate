@@ -20,14 +20,6 @@
 		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
 	</tr>	
 	<tr>
-		<th>ActiveAndroidTest</th>
-		<th>AlarmTest</th>
-	</tr>
-	<tr>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
-	</tr>	
-	<tr>
 		<th>AudioTest</th>
 		<th>BatteryTest</th>
 	</tr>
@@ -99,7 +91,7 @@
 		<th>Features</th>		
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-basic/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
 		<td style="width: 240px"> 
 			<ul>
 				<li>Material Design GUI</li>
