@@ -16,9 +16,10 @@ public class MainActivity extends Activity implements SensorEventListener {
 
     private SensorManager sensorManager;
     private Sensor accelerometer;
-    private TextView x, y, z;
+    private Sensor light;
+    private TextView x, y, z, l;
     private long lastTime;
-    private static final int MAX_TIME_REFRESH = 500;
+    private static final int MAX_TIME_REFRESH = 1000;
 
     public void onCreate(Bundle bundle) {
         super.onCreate(bundle);
@@ -26,11 +27,17 @@ public class MainActivity extends Activity implements SensorEventListener {
         x = (TextView) findViewById(R.id.txtX);
         y = (TextView) findViewById(R.id.txtY);
         z = (TextView) findViewById(R.id.txtZ);
+        l = (TextView) findViewById(R.id.txtL);
 
         sensorManager = (SensorManager) getSystemService(SENSOR_SERVICE);
         accelerometer = sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
+        light = sensorManager.getDefaultSensor(Sensor.TYPE_LIGHT);
         if (null == accelerometer)
             finish();
+
+        if (null == light)
+            finish();
+
 
         lastTime = System.currentTimeMillis();
     }
@@ -39,6 +46,7 @@ public class MainActivity extends Activity implements SensorEventListener {
     protected void onResume() {
         super.onResume();
         sensorManager.registerListener(this, accelerometer, SensorManager.SENSOR_DELAY_UI);
+        sensorManager.registerListener(this, light, SensorManager.SENSOR_DELAY_UI);
     }
 
     @Override
@@ -67,6 +75,8 @@ public class MainActivity extends Activity implements SensorEventListener {
                 z.setText(String.valueOf(rawZ));
             }
 
+        } else if (sensorEvent.sensor.getType() == Sensor.TYPE_LIGHT) {
+            l.setText(sensorEvent.values[0] + "");
         }
 
     }
