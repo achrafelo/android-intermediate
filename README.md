@@ -24,7 +24,7 @@
 		<th>BatteryTest</th>
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/adudiotest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/audiotest.png"/></td>
 		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
 	</tr>	
 	<tr>
