@@ -24,7 +24,7 @@
 		<th>BatteryTest</th>
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/adudiotest.png"/></td>
 		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
 	</tr>	
 	<tr>
@@ -32,7 +32,7 @@
 		<th>CustomSlideMenuTest</th>
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/cameratest.png"/></td>
 		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
 	</tr>	
 	<tr>
@@ -65,7 +65,7 @@
 	</tr>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/speechtest.png"/></td>
 	</tr>
 	<tr>
 		<th>VibrateTest</th>
@@ -73,12 +73,16 @@
 	</tr>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/videotest.png"/></td>
 	</tr>	
 	<tr>
 		<th>VolleyTest</th>
 		<th>YoutubeTest</th>
 	</tr>
+		<tr>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/youtubetest.png"/></td>
+	</tr>	
 </table>
 
 
