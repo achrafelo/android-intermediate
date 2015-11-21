@@ -16,8 +16,8 @@
 		<th>AlarmTest</th>
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/activeandroidtest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/alarmtest.png"/></td>
 	</tr>	
 	<tr>
 		<th>AudioTest</th>
@@ -25,7 +25,7 @@
 	</tr>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/audiotest.png"/></td>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/batterytest.png"/></td>
 	</tr>	
 	<tr>
 		<th>CameraTest</th>
@@ -33,38 +33,38 @@
 	</tr>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/cameratest.png"/></td>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/customslidemenutest.png"/></td>
 	</tr>	
 	<tr>
 		<th>FirebaseTest</th>
 		<th>GsonTest</th>
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/firebasetest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/gsontest.png"/></td>
 	</tr>	
 	<tr>
 		<th>KSoapTest</th>
 		<th>ParseTest</th>
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/ksoaptest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/parsetest.png"/></td>
 	</tr>	
 	<tr>
 		<th>PicassoTest</th>
 		<th>PreferenceScreenTest</th>
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/googlemapstest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/picassotest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/preferencescreentest.png"/></td>
 	</tr>	
 	<tr>
 		<th>RetrofitTest</th>
 		<th>SpeechTest</th>
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/retrofittest.png"/></td>
 		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/speechtest.png"/></td>
 	</tr>
 	<tr>
@@ -72,7 +72,7 @@
 		<th>VideoTest</th>
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/vibratetest.png"/></td>
 		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/videotest.png"/></td>
 	</tr>	
 	<tr>
@@ -80,7 +80,7 @@
 		<th>YoutubeTest</th>
 	</tr>
 		<tr>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/accelerometertest.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/volleytest.png"/></td>
 		<td><img src="https://raw.githubusercontent.com/tiveor/android-intermediate/master/screens/youtubetest.png"/></td>
 	</tr>	
 </table>
