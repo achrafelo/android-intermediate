@@ -2,6 +2,7 @@ package com.possiblelabs.materialtest2;
 
 import android.app.Fragment;
 import android.app.FragmentTransaction;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -21,6 +22,7 @@ import android.view.MenuItem;
 import android.widget.EditText;
 import android.widget.FrameLayout;
 
+import com.possiblelabs.materialtest2.activities.DetailActivity;
 import com.possiblelabs.materialtest2.activities.PersonFragment;
 import com.possiblelabs.materialtest2.fragments.MainFragment;
 import com.possiblelabs.materialtest2.fragments.SecondFragment;
@@ -100,7 +102,7 @@ public class MainActivity extends AppCompatActivity
     }
 
     private void loadPersons() {
-        PersonFragment persons = PersonFragment.newInstance(2);
+        PersonFragment persons = PersonFragment.newInstance(1);
         loadFragment(persons);
     }
 
@@ -124,9 +126,9 @@ public class MainActivity extends AppCompatActivity
             loadSecond();
         } else if (id == R.id.nav_persons) {
             loadPersons();
-
-        } else if (id == R.id.nav_manage) {
-
+        } else if (id == R.id.nav_detail) {
+            Intent intent = new Intent(this, DetailActivity.class);
+            startActivity(intent);
         } else if (id == R.id.nav_share) {
 
         } else if (id == R.id.nav_send) {
