@@ -21,6 +21,7 @@ import android.view.MenuItem;
 import android.widget.EditText;
 import android.widget.FrameLayout;
 
+import com.possiblelabs.materialtest2.activities.PersonFragment;
 import com.possiblelabs.materialtest2.fragments.MainFragment;
 import com.possiblelabs.materialtest2.fragments.SecondFragment;
 
@@ -98,6 +99,11 @@ public class MainActivity extends AppCompatActivity
         loadFragment(second);
     }
 
+    private void loadPersons() {
+        PersonFragment persons = PersonFragment.newInstance(2);
+        loadFragment(persons);
+    }
+
     private void loadFragment(Fragment fragment) {
         FragmentTransaction ft = getFragmentManager().beginTransaction();
         ft.replace(R.id.frame, fragment);
@@ -116,7 +122,8 @@ public class MainActivity extends AppCompatActivity
             loadHome();
         } else if (id == R.id.nav_second) {
             loadSecond();
-        } else if (id == R.id.nav_slideshow) {
+        } else if (id == R.id.nav_persons) {
+            loadPersons();
 
         } else if (id == R.id.nav_manage) {
 
