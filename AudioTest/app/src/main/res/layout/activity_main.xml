@@ -13,7 +13,7 @@
         android:id="@+id/btn_select"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:onClick="doSelectPicture" />
+        android:onClick="doSelectAudio" />
 
     <Button
         android:layout_width="fill_parent"
@@ -28,14 +28,7 @@
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:weightSum="2">
-
-        <ImageView
-            android:layout_width="fill_parent"
-            android:layout_height="0dp"
-            android:id="@+id/imageView"
-            android:layout_weight="1"
-            android:scaleType="centerInside" />
+        android:weightSum="1">
 
         <ListView
             android:layout_width="wrap_content"

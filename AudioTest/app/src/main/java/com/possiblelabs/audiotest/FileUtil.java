@@ -1,4 +1,4 @@
-package com.possiblelabs.cameratest;
+package com.possiblelabs.audiotest;
 
 import android.app.Activity;
 import android.content.Context;

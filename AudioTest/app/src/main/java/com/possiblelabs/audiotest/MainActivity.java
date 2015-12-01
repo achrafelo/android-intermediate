@@ -1,4 +1,4 @@
-package com.possiblelabs.cameratest;
+package com.possiblelabs.audiotest;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -56,7 +56,7 @@ public class MainActivity extends Activity implements Constants, AdapterView.OnI
 
     public void recordAudio(String fileName, String nameRecord) {
         final MediaRecorder recorder = new MediaRecorder();
-        ContentValues values = new ContentValues(3);
+        ContentValues values = new ContentValues(1);
         values.put(MediaStore.MediaColumns.TITLE, nameRecord);
         recorder.setAudioSource(MediaRecorder.AudioSource.MIC);
         recorder.setOutputFormat(MediaRecorder.OutputFormat.MPEG_4);
@@ -92,7 +92,7 @@ public class MainActivity extends Activity implements Constants, AdapterView.OnI
     }
 
 
-    public void doSelectPicture(View view) {
+    public void doSelectAudio(View view) {
         Intent intent = new Intent();
         intent.setType("audio/*");
         intent.setAction(Intent.ACTION_GET_CONTENT);
@@ -127,11 +127,8 @@ public class MainActivity extends Activity implements Constants, AdapterView.OnI
     public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
         File audioFile = new File(fileNames.get(position));
         if (audioFile.exists() && audioFile.isFile()) {
-            if (mp == null) {
-                mp = new MediaPlayer();
-            } else {
-                mp.stop();
-            }
+
+            mp = new MediaPlayer();
 
             try {
                 mp.setDataSource(audioFile.getAbsolutePath());
@@ -146,6 +143,7 @@ public class MainActivity extends Activity implements Constants, AdapterView.OnI
                     }
                 });
             } catch (Exception e) {
+                e.printStackTrace();
                 Toast.makeText(MainActivity.this, "No se puede reproducir", Toast.LENGTH_SHORT).show();
             }
         }

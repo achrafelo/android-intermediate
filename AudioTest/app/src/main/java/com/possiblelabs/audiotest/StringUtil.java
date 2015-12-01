@@ -1,4 +1,4 @@
-package com.possiblelabs.cameratest;
+package com.possiblelabs.audiotest;
 
 import java.util.Random;
 

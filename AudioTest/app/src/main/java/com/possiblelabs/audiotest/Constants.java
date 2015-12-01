@@ -1,4 +1,4 @@
-package com.possiblelabs.cameratest;
+package com.possiblelabs.audiotest;
 
 /**
  * Created by possiblelabs on 7/23/15.
