@@ -10,7 +10,7 @@ public class SpellUtil {
         StringBuilder sb = new StringBuilder();
         for (char letter : words.toCharArray()) {
             sb.append(letter);
-            //sb.append(convertToSpellOnce(letter)); this is another option
+            //sb.append(convertSoundBased(letter)); this is another option
             sb.append(",");
         }
         return sb.toString();
